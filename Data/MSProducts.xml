@@ -2,6 +2,7 @@
 <!--Settings used with MSEndpointMgr Driver Automation Tool-->
 <Drivers>
 	<Model SystemSKU="Surface_3" ProductName="Surface3/WiFi" DisplayName="Surface 3 Wifi" SupportedBuilds="1809,1903,1909,2004,2009,21H1"></Model>
+	<Model SystemSKU="Surface_Pro_3" ProductName="SurfacePro3" DisplayName="Surface Pro 3" SupportedBuilds="1809,1903,1909,2004,2009,21H1"></Model>
 	<Model SystemSKU="Surface_3_US1" ProductName="Surface3/ATT" DisplayName="Surface 3 ATT" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_3_US2" ProductName="Surface3/Verizon" DisplayName="Surface 3 Verizon" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_3_NAG" ProductName="Surface3/NAG" DisplayName="Surface 3 NAG" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
