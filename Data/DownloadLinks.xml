@@ -102,7 +102,7 @@
             <Win10Build name="RS3">
                 <DownloadURL>https://download.microsoft.com/download/2/0/7/2073C22F-2F31-4F4A-8059-E54C91C564A9/SurfacePro3_Win10_16299_1803002_0.msi</DownloadURL>
             </Win10Build>
-            <Win10Build name="RS4">
+            <Win10Build name="RS5">
                 <DownloadURL>https://download.microsoft.com/download/2/0/7/2073C22F-2F31-4F4A-8059-E54C91C564A9/SurfacePro3_Win10_16299_1803002_0.msi</DownloadURL>
             </Win10Build>
         </OSSupport>
@@ -115,7 +115,7 @@
             <Win10Build name="RS3">
                 <DownloadURL>https://download.microsoft.com/download/6/A/C/6ACB37C4-E4C1-4E0E-BBAE-AC7A0C303593/SurfacePro4_Win10_16299_1803301_1.msi</DownloadURL>
             </Win10Build>
-            <Win10Build name="RS4">
+            <Win10Build name="RS5">
                 <DownloadURL>https://download.microsoft.com/download/6/A/C/6ACB37C4-E4C1-4E0E-BBAE-AC7A0C303593/SurfacePro4_Win10_16299_1803301_1.msi</DownloadURL>
             </Win10Build>
         </OSSupport>
